@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@scrapingant/scrapingant-client": "^0.2.1",
+    "cheerio": "^1.0.0-rc.12",
+    "dotenv": "^16.4.5",
+    "got": "^14.2.1"
+  }
+}
